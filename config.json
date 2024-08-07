@@ -1,0 +1,6 @@
+{
+    "uri": "mongodb://localhost:27017/",
+    "db_name": "benchmark_db",
+    "collection_name": "test_collection",
+    "num_docs": 1000
+}
